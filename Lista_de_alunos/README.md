@@ -1,3 +1,4 @@
+**Lista de alunos com nome, nota e média.**
 # Visualização do arquivo HMTL e CSS, e explicação do JAVASCRIPT
 ![image](https://github.com/user-attachments/assets/11ab7834-1f28-49fc-baac-cb532316a836)
 
