@@ -1,3 +1,5 @@
+**O projeto é um formulário simples, aonde ele passa por uma validação em JavaScript.**
+
 # Visualização do arquivo HMTL e CSS, e explicação do JAVASCRIPT
 ![image](https://github.com/user-attachments/assets/466e4a04-3b68-463e-ac9c-0acc83953086)
 
